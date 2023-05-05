@@ -1,2 +1,2 @@
-# ATM-Bank-Project
-ATM-Bank-Project
+# ATM-Bank
+ATM-Bank
